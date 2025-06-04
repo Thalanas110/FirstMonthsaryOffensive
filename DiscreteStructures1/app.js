@@ -434,7 +434,7 @@ class PoetrySunsetApp {
                     <div class="print-poem-category">${this.escapeHtml(poem.category)}</div>
                     <div class="print-poem-text">${this.escapeHtml(poem.content)}</div>
                     <div class="print-footer">
-                        Poetry Sunset Collection<br>
+                        First Monthsary Offensive<br>
                         Printed on ${new Date().toLocaleDateString()}
                     </div>
                 </div>
