@@ -48,6 +48,7 @@
     "category": "modern",
     "content": "We met in a game where falling was the rule,\nA week to act like lovers, trying not to lose.\nFalling step by step, pretending hearts would beat,\nTwo strangers playing parts, unsure if real or feat.\n\nDay one was just a laugh, a tease in the air,\nWe joked and faked the closeness, caught unaware.\nDay two brought quiet moments, sparks that wouldn’t fade,\nPretending felt too real, no longer just charade.\n\nBy day three, the game was done, we dropped the play,\nFrom acting to believing, our hearts found their way.\nNo more just for a week, no rules to confine,\nWhat started as a game, turned truly yours and mine.\n\nWe failed the game but won so much more,\nIn a world of pretending, we found the core.\nFrom falling in a game to standing side by side,\nA love unplanned, but one we can’t hide."
     },
+    /* these ones are not yet done. */
     {
         "id": 8,
         "title": "When You Are Old",
@@ -134,6 +135,13 @@
     },
     {
         "id": 20,
+        "title": "Having a Coke with You",
+        "author": "Frank O'Hara",
+        "category": "modern",
+        "content": "is even more fun than going to San Sebastian, Irún, Hendaye, Biarritz, Bayonne\nor being sick to my stomach on the Travesera de Gracia in Barcelona\npartly because in your orange shirt you look like a better happier St. Sebastian\npartly because of my love for you, partly because of your love for yoghurt\npartly because of the fluorescent orange tulips around the birches\npartly because of the secrecy our smiles take on before people and statuary\nit is hard to believe when I'm with you that there can be anything as still\nas solemn as unpleasantly definitive as statuary when right in front of it\nin the warm New York 4 o'clock light we are drifting back and forth\nbetween each other like a tree breathing through its spectacles\n\nand the portrait show seems to have no faces in it at all, just paint\nyou suddenly wonder why in the world anyone ever did them\n\nI look\nat you and I would rather look at you than all the portraits in the world\nexcept possibly for the Polish Rider occasionally and anyway it's in the Frick\nwhich thank heavens you haven't gone to yet so we can go together the first time\nand the fact that you move so beautifully more or less takes care of Futurism\njust as at home I never think of the Nude Descending a Staircase or\nat a rehearsal a single drawing of Leonardo or Michelangelo that used to wow me\nand what good does all the research of the Impressionists do them\nwhen they never got the right person to stand near the tree when the sun sank\nor for that matter Marino Marini when he didn't pick the rider as carefully\nas the horse\n\nit seems they were all cheated of some marvellous experience\nwhich is not going to go wasted on me which is why I am telling you about it"
+    },
+        {
+        "id": 21,
         "title": "Having a Coke with You",
         "author": "Frank O'Hara",
         "category": "modern",
