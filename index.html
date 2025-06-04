@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poetry Sunset - A Collection of Love Poems</title>
+    <meta name="description" content="A beautiful collection of love poems with sunset-themed design">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="painting.css">
+</head>
+<body>
+    <!-- main class -->
+    <header class="hero">
+        <div class="hero-background"></div>
+        <div class="hero-content">
+            <h1 class="hero-title">Poems are under cons</h1>
+            <p class="hero-subtitle">Poems are under cons, everything here is just a temp placeholder</p>
+            
+
+        </div>
+    </header>
+
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <i class="fas fa-sun theme-icon light-icon"></i>
+        <i class="fas fa-moon theme-icon dark-icon"></i>
+    </button>
+
+    <main class="main-content">
+        <section class="controls">
+            <div class="controls-grid">
+                <div class="search-container">
+                    <i class="fas fa-search search-icon"></i>
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        placeholder="Search poems by title, author, or content..."
+                        class="search-input"
+                    >
+                    <button class="clear-search" id="clearSearch" aria-label="Clear search">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+
+                <!--sorting-->
+                <div class="sort-controls">
+                    <select id="sortBy" class="sort-select">
+                        <option value="title-asc">Title A-Z</option>
+                        <option value="title-desc">Title Z-A</option>
+                        <option value="author-asc">Author A-Z</option>
+                        <option value="author-desc">Author Z-A</option>
+                        <option value="category">Category</option>
+                    </select>
+                </div>
+
+                <!--filtering-->
+                <div class="filter-controls">
+                    <select id="filterCategory" class="filter-select">
+                        <option value="all">All Categories</option>
+                        <option value="classic">Classic</option>
+                        <option value="modern">Modern</option>
+                        <option value="romantic">Romantic</option>
+                        <option value="nature">Nature</option>
+                        <option value="passion">Passion</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- results-->
+            <div class="results-info">
+                <span id="resultsCount">0 poems found</span>
+            </div>
+        </section>
+
+        <!-- where the poems appear-->
+        <section class="poems-section">
+            <div class="poems-grid" id="poemsGrid">
+                <!-- all poems will load here -->
+            </div>
+        </section>
+
+        <!-- if no results, or json can't be read -->
+        <div class="no-results" id="noResults" style="display: none;">
+            <i class="fas fa-search"></i>
+            <h3>No poems found</h3>
+            <p>Try adjusting your search or filter criteria</p>
+        </div>
+    </main>
+
+    <!--1 poem box-->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal" id="poemModal">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle"></h2>
+                <div class="modal-actions">
+                    <button class="btn-icon" id="printPoem" aria-label="Print poem">
+                        <i class="fas fa-print"></i>
+                    </button>
+                    <button class="btn-icon" id="closeModal" aria-label="Close modal">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="modal-content">
+                <div class="poem-meta">
+                    <span class="poem-author" id="modalAuthor"></span>
+                    <span class="poem-category" id="modalCategory"></span>
+                </div>
+                <div class="poem-text" id="modalContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <!--for printing-->
+    <div id="printArea" class="print-area">
+    </div>
+
+    <!--footer-->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Poetry Sunset. A collection of timeless love poems.</p>
+            <div class="social-links">
+                <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i class="fab fa-github"></i>
+                </a>
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                    <i class="fab fa-facebook"></i>
+                </a>
+                <a href="https://spotify.com" target="_blank" rel="noopener noreferrer" aria-label="Spotify">
+                    <i class="fab fa-spotify"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="DiscreteStructures1/dula.js"></script>
+    <script src="DiscreteStructures1/app.js"></script>
+</body>
+</html>

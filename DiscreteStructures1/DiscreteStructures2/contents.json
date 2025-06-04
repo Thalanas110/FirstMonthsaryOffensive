@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Shall I Compare Thee to a Summer's Day?",
+    "author": "William Shakespeare",
+    "category": "classic",
+    "content": "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimm'd;\nAnd every fair from fair sometime declines,\nBy chance or nature's changing course untrimm'd;\nBut thy eternal summer shall not fade\nNor lose possession of that fair thou owest;\nNor shall Death brag thou wander'st in his shade,\nWhen in eternal lines to time thou growest:\nSo long as men can breathe or eyes can see,\nSo long lives this, and this gives life to thee."
+  },
+  {
+    "id": 2,
+    "title": "How Do I Love Thee?",
+    "author": "Elizabeth Barrett Browning",
+    "category": "classic",
+    "content": "How do I love thee? Let me count the ways.\nI love thee to the depth and breadth and height\nMy soul can reach, when feeling out of sight\nFor the ends of being and ideal grace.\nI love thee to the level of every day's\nMost quiet need, by sun and candle-light.\nI love thee freely, as men strive for right.\nI love thee purely, as they turn from praise.\nI love thee with the passion put to use\nIn my old griefs, and with my childhood's faith.\nI love thee with a love I seemed to lose\nWith my lost saints. I love thee with the breath,\nSmiles, tears, of all my life; and, if God choose,\nI shall but love thee better after death."
+  },
+  {
+    "id": 3,
+    "title": "She Walks in Beauty",
+    "author": "Lord Byron",
+    "category": "classic",
+    "content": "She walks in beauty, like the night\nOf cloudless climes and starry skies;\nAnd all that's best of dark and bright\nMeet in her aspect and her eyes:\nThus mellowed to that tender light\nWhich heaven to gaudy day denies.\n\nOne shade the more, one ray the less,\nHad half impaired the nameless grace\nWhich waves in every raven tress,\nOr softly lightens o'er her face;\nWhere thoughts serenely sweet express\nHow pure, how dear their dwelling place.\n\nAnd on that cheek, and o'er that brow,\nSo soft, so calm, yet eloquent,\nThe smiles that win, the tints that glow,\nBut tell of days in goodness spent,\nA mind at peace with all below,\nA heart whose love is innocent!"
+  },
+  {
+    "id": 4,
+    "title": "i carry your heart with me",
+    "author": "E.E. Cummings",
+    "category": "modern",
+    "content": "i carry your heart with me(i carry it in\nmy heart)i am never without it(anywhere\ni go you go,my dear;and whatever is done\nby only me is your doing,my darling)\ni fear\nno fate(for you are my fate,my sweet)i want\nno world(for beautiful you are my world,my true)\nand it's you are whatever a moon has always meant\nand whatever a sun will always sing is you\n\nhere is the deepest secret nobody knows\n(here is the root of the root and the bud of the bud\nand the sky of the sky of a tree called life;which grows\nhigher than soul can hope or mind can hide)\nand this is the wonder that's keeping the stars apart\n\ni carry your heart(i carry it in my heart)"
+  },
+  {
+    "id": 5,
+    "title": "Wild Nights",
+    "author": "Emily Dickinson",
+    "category": "passion",
+    "content": "Wild nights - Wild nights!\nWere I with thee\nWild nights should be\nOur luxury!\n\nFutile - the winds -\nTo a Heart in port -\nDone with the Compass -\nDone with the Chart!\n\nRowing in Eden -\nAh - the Sea!\nMight I but moor - tonight -\nIn thee!"
+  },
+  {
+    "id": 6,
+    "title": "The Sun Rising",
+    "author": "John Donne",
+    "category": "classic",
+    "content": "Busy old fool, unruly sun,\nWhy dost thou thus,\nThrough windows, and through curtains call on us?\nMust to thy motions lovers' seasons run?\nSaucy pedantic wretch, go chide\nLate school boys and sour prentices,\nGo tell court huntsmen that the king will ride,\nCall country ants to harvest offices,\nLove, all alike, no season knows nor clime,\nNor hours, days, months, which are the rags of time.\n\nThy beams, so reverend and strong\nWhy shouldst thou think?\nI could eclipse and cloud them with a wink,\nBut that I would not lose her sight so long;\nIf her eyes have not blinded thine,\nLook, and tomorrow late, tell me,\nWhether both th' Indias of spice and mine\nBe where thou leftst them, or lie here with me.\nAsk for those kings whom thou saw'st yesterday,\nAnd thou shalt hear, All here in one bed lay."
+  },
+  {
+    "id": 7,
+    "title": "Love Song",
+    "author": "William Carlos Williams",
+    "category": "modern",
+    "content": "I lie here thinking of you:—\n\nthe stain of love\nis upon the world!\nYellow, yellow, yellow\nit eats into the leaves,\nsmears with saffron\nthe horned branches that lean\nheavily\nagainst a smooth purple sky!\nThere is no light\nonly a honey-thick stain\nthat drips from leaf to leaf\nand limb to limb\nspoiling the colors\nof the whole world—\n\nyou far off there under\nthe wine-red selvage of the west!"
+  },
+  {
+    "id": 8,
+    "title": "When You Are Old",
+    "author": "W.B. Yeats",
+    "category": "romantic",
+    "content": "When you are old and grey and full of sleep,\nAnd nodding by the fire, take down this book,\nAnd slowly read, and dream of the soft look\nYour eyes had once, and of their shadows deep;\n\nHow many loved your moments of glad grace,\nAnd loved your beauty with love false or true,\nBut one man loved the pilgrim soul in you,\nAnd loved the sorrows of your changing face;\n\nAnd bending down beside the glowing bars,\nMurmur, a little sadly, how Love fled\nAnd paced upon the mountains overhead\nAnd hid his face amid a crowd of stars."
+  },
+  {
+    "id": 9,
+    "title": "Variation on the Word Sleep",
+    "author": "Margaret Atwood",
+    "category": "modern",
+    "content": "I would like to watch you sleeping,\nwhich may not happen.\nI would like to watch you,\nsleeping. I would like to sleep\nwith you, to enter\nyour sleep as its smooth dark wave\nslides over my head\n\nand walk with you through that lucent\nwavering forest of bluegreen leaves\nwith its watery sun & three moons\ntowards the cave where you must descend,\ntowards your worst fear\n\nI would like to give you the silver\nbranch, the small white flower, the one\nword that will protect you\nfrom the grief at the center\nof your dream, from the grief\nat the center. I would like to follow\nyou up the long stairway\nagain & become\nthe boat that would row you back\ncarefully, a flame\nin two cupped hands\nto where your body lies\nbeside me, and you enter\nit as easily as breathing in\n\nI would like to be the air\nthat inhabits you for a moment\nonly. I would like to be that unnoticed\n& that necessary."
+  },
+  {
+    "id": 10,
+    "title": "The Good-Morrow",
+    "author": "John Donne",
+    "category": "classic",
+    "content": "I wonder, by my troth, what thou and I\nDid, till we loved? Were we not weaned till then?\nBut sucked on country pleasures, childishly?\nOr snorted we in the Seven Sleepers' den?\n'Twas so; but this, all pleasures fancies be.\nIf ever any beauty I did see,\nWhich I desired, and got, 'twas but a dream of thee.\n\nAnd now good-morrow to our waking souls,\nWhich watch not one another out of fear;\nFor love, all love of other sights controls,\nAnd makes one little room an everywhere.\nLet sea-discoverers to new worlds have gone,\nLet maps to other, worlds on worlds have shown,\nLet us possess one world, each hath one, and is one.\n\nMy face in thine eye, thine in mine appears,\nAnd true plain hearts do in the faces rest;\nWhere can we find two better hemispheres,\nWithout sharp north, without declining west?\nWhatever dies, was not mixed equally;\nIf our two loves be one, or, thou and I\nLove so alike, that none do slacken, none can die."
+  },
+  {
+    "id": 11,
+    "title": "Valentine",
+    "author": "Carol Ann Duffy",
+    "category": "modern",
+    "content": "Not a red rose or a satin heart.\n\nI give you an onion.\nIt is a moon wrapped in brown paper.\nIt promises light\nlike the careful undressing of love.\n\nHere.\nIt will blind you with tears\nlike a lover.\nIt will make your reflection\na wobbling photo of grief.\n\nI am trying to be truthful.\n\nNot a cute card or a kissogram.\n\nI give you an onion.\nIts fierce kiss will stay on your lips,\npossessive and faithful\nas we are,\nfor as long as we are.\n\nTake it.\nIts platinum loops shrink to a wedding-ring,\nif you like.\nLethal.\nIts scent will cling to your fingers,\ncling to your knife."
+  },
+  {
+    "id": 12,
+    "title": "The River-Merchant's Wife",
+    "author": "Ezra Pound",
+    "category": "classic",
+    "content": "While my hair was still cut straight across my forehead\nI played about the front gate, pulling flowers.\nYou came by on bamboo stilts, playing horse,\nYou walked about my seat, playing with blue plums.\nAnd we went on living in the village of Chokan:\nTwo small people, without dislike or suspicion.\n\nAt fourteen I married My Lord you.\nI never laughed, being bashful.\nLowering my head, I looked at the wall.\nCalled to, a thousand times, I never looked back.\n\nAt fifteen I stopped scowling,\nI desired my dust to be mingled with yours\nForever and forever and forever.\nWhy should I climb the look out?\n\nAt sixteen you departed,\nYou went into far Ku-to-en, by the river of swirling eddies,\nAnd you have been gone five months.\nThe monkeys make sorrowful noise overhead.\n\nYou dragged your feet when you went out.\nBy the gate now, the moss is grown, the different mosses,\nToo deep to clear them away!\nThe leaves fall early this autumn, in wind.\nThe paired butterflies are already yellow with August\nOver the grass in the West garden;\nThey hurt me. I grow older.\nIf you are coming down through the narrows of the river Kiang,\nPlease let me know beforehand,\nAnd I will come out to meet you\nAs far as Cho-fu-Sa."
+  },
+  {
+    "id": 13,
+    "title": "Bright Star",
+    "author": "John Keats",
+    "category": "romantic",
+    "content": "Bright star, would I were steadfast as thou art—\nNot in lone splendour hung aloft the night\nAnd watching, with eternal lids apart,\nLike nature's patient, sleepless Eremite,\nThe moving waters at their priestlike task\nOf pure ablution round earth's human shores,\nOr gazing on the new soft-fallen mask\nOf snow upon the mountains and the moors—\nNo—yet still steadfast, still unchangeable,\nPillowed upon my fair love's ripening breast,\nTo feel for ever its soft fall and swell,\nAwake for ever in a sweet unrest,\nStill, still to hear her tender-taken breath,\nAnd so live ever—or else swoon to death."
+  },
+  {
+    "id": 14,
+    "title": "Love After Love",
+    "author": "Derek Walcott",
+    "category": "modern",
+    "content": "The time will come\nwhen, with elation\nyou will greet yourself arriving\nat your own door, in your own mirror\nand each will smile at the other's welcome,\n\nand say, sit here. Eat.\nYou will love again the stranger who was your self.\nGive wine. Give bread. Give back your heart\nto itself, to the stranger who has loved you\n\nall your life, whom you ignored\nfor another, who knows you by heart.\nTake down the love letters from the bookshelf,\n\nthe photographs, the desperate notes,\npeel your own image from the mirror.\nSit. Feast on your life."
+  },
+  {
+    "id": 15,
+    "title": "A Red, Red Rose",
+    "author": "Robert Burns",
+    "category": "romantic",
+    "content": "O my Luve is like a red, red rose\nThat's newly sprung in June;\nO my Luve is like the melody\nThat's sweetly played in tune.\n\nSo fair art thou, my bonnie lass,\nSo deep in luve am I;\nAnd I will luve thee still, my dear,\nTill a' the seas gang dry.\n\nTill a' the seas gang dry, my dear,\nAnd the rocks melt wi' the sun;\nI will love thee still, my dear,\nWhile the sands o' life shall run.\n\nAnd fare thee weel, my only luve!\nAnd fare thee weel awhile!\nAnd I will come again, my luve,\nThough it were ten thousand mile."
+  },
+  {
+    "id": 16,
+    "title": "The Passionate Shepherd to His Love",
+    "author": "Christopher Marlowe",
+    "category": "nature",
+    "content": "Come live with me and be my love,\nAnd we will all the pleasures prove,\nThat valleys, groves, hills, and fields,\nWoods, or steepy mountain yields.\n\nAnd we will sit upon the rocks,\nSeeing the shepherds feed their flocks,\nBy shallow rivers to whose falls\nMelodious birds sing madrigals.\n\nAnd I will make thee beds of roses\nAnd a thousand fragrant posies,\nA cap of flowers, and a kirtle\nEmbroidered all with leaves of myrtle;\n\nA gown made of the finest wool\nWhich from our pretty lambs we pull;\nFair lined slippers for the cold,\nWith buckles of the purest gold;\n\nA belt of straw and ivy buds,\nWith coral clasps and amber studs:\nAnd if these pleasures may thee move,\nCome live with me, and be my love.\n\nThe shepherds' swains shall dance and sing\nFor thy delight each May morning:\nIf these delights thy mind may move,\nThen live with me and be my love."
+  },
+  {
+    "id": 17,
+    "title": "Meeting at Night",
+    "author": "Robert Browning",
+    "category": "romantic",
+    "content": "The grey sea and the long black land;\nAnd the yellow half-moon large and low;\nAnd the startled little waves that leap\nIn fiery ringlets from their sleep,\nAs I gain the cove with pushing prow,\nAnd quench its speed i' the slushy sand.\n\nThen a mile of warm sea-scented beach;\nThree fields to cross till a farm appears;\nA tap at the pane, the quick sharp scratch\nAnd blue spurt of a lighted match,\nAnd a voice less loud, thro' its joys and fears,\nThan the two hearts beating each to each!"
+  },
+  {
+    "id": 18,
+    "title": "Tonight I Can Write",
+    "author": "Pablo Neruda",
+    "category": "passion",
+    "content": "Tonight I can write the saddest lines.\n\nWrite, for example, 'The night is starry\nand the blue stars shiver in the distance.'\n\nThe night wind revolves in the sky and sings.\n\nTonight I can write the saddest lines.\nI loved her, and sometimes she loved me too.\n\nThrough nights like this one I held her in my arms.\nI kissed her again and again under the endless sky.\n\nShe loved me, sometimes I loved her too.\nHow could one not have loved her great still eyes.\n\nTonight I can write the saddest lines.\nTo think that I do not have her. To feel that I have lost her.\n\nTo hear the immense night, still more immense without her.\nAnd the verse falls to the soul like dew to the pasture.\n\nWhat does it matter that my love could not keep her.\nThe night is starry and she is not with me.\n\nThis is all. In the distance someone is singing. In the distance.\nMy soul is not satisfied that it has lost her.\n\nMy sight tries to find her as though to bring her closer.\nMy heart looks for her, and she is not with me.\n\nThe same night whitening the same trees.\nWe, of that time, are no longer the same.\n\nI no longer love her, that's certain, but how I loved her.\nMy voice tried to find the wind to touch her hearing.\n\nAnother's. She will be another's. As she was before my kisses.\nHer voice, her bright body. Her infinite eyes.\n\nI no longer love her, that's certain, but maybe I love her.\nLove is so short, forgetting is so long.\n\nBecause through nights like this one I held her in my arms\nmy soul is not satisfied that it has lost her.\n\nThough this be the last pain that she makes me suffer\nand these the last verses that I write for her."
+  },
+  {
+    "id": 19,
+    "title": "somewhere i have never travelled",
+    "author": "E.E. Cummings",
+    "category": "modern",
+    "content": "somewhere i have never travelled,gladly beyond\nany experience,your eyes have their silence:\nin your most frail gesture are things which enclose me,\nor which i cannot touch because they are too near\n\nyour slightest look easily will unclose me\nthough i have closed myself as fingers,\nyou open always petal by petal myself as Spring opens\n(touching skilfully,mysteriously)her first rose\n\nor if your wish be to close me, i and\nmy life will shut very beautifully ,suddenly,\nas when the heart of this flower imagines\nthe snow carefully everywhere descending;\n\nnothing which we are to perceive in this world equals\nthe power of your intense fragility:whose texture\ncompels me with the color of its countries,\nrendering death and forever with each breathing\n\n(i do not know what it is about you that closes\nand opens;only something in me understands\nthe voice of your eyes is deeper than all roses)\nnobody,not even the rain,has such small hands"
+  },
+  {
+    "id": 20,
+    "title": "Having a Coke with You",
+    "author": "Frank O'Hara",
+    "category": "modern",
+    "content": "is even more fun than going to San Sebastian, Irún, Hendaye, Biarritz, Bayonne\nor being sick to my stomach on the Travesera de Gracia in Barcelona\npartly because in your orange shirt you look like a better happier St. Sebastian\npartly because of my love for you, partly because of your love for yoghurt\npartly because of the fluorescent orange tulips around the birches\npartly because of the secrecy our smiles take on before people and statuary\nit is hard to believe when I'm with you that there can be anything as still\nas solemn as unpleasantly definitive as statuary when right in front of it\nin the warm New York 4 o'clock light we are drifting back and forth\nbetween each other like a tree breathing through its spectacles\n\nand the portrait show seems to have no faces in it at all, just paint\nyou suddenly wonder why in the world anyone ever did them\n\nI look\nat you and I would rather look at you than all the portraits in the world\nexcept possibly for the Polish Rider occasionally and anyway it's in the Frick\nwhich thank heavens you haven't gone to yet so we can go together the first time\nand the fact that you move so beautifully more or less takes care of Futurism\njust as at home I never think of the Nude Descending a Staircase or\nat a rehearsal a single drawing of Leonardo or Michelangelo that used to wow me\nand what good does all the research of the Impressionists do them\nwhen they never got the right person to stand near the tree when the sun sank\nor for that matter Marino Marini when he didn't pick the rider as carefully\nas the horse\n\nit seems they were all cheated of some marvellous experience\nwhich is not going to go wasted on me which is why I am telling you about it"
+  }
+]
