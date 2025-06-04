@@ -483,18 +483,31 @@ class PoetrySunsetApp {
         }
     }
 
-    /**
-     * Show error message to user
-     */
     showError(message) {
-        const poemsGrid = document.getElementById('poemsGrid');
-        poemsGrid.innerHTML = `
-            <div class="error-message">
-                <i class="fas fa-exclamation-triangle"></i>
-                <h3>Error</h3>
-                <p>${this.escapeHtml(message)}</p>
-            </div>
-        `;
+        try {
+            const poemsGrid = document.getElementById('poemsGrid');
+            if (!poemsGrid) {
+                throw new Error('Error: poemsGrid element not found');
+            }
+            
+            poemsGrid.innerHTML = `
+                <div class="error-message">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <h3>Error</h3>
+                    <p>${this.escapeHtml(message || 'An unknown error occurred')}</p>
+                </div>
+            `;
+        } 
+        catch (error) {
+            console.error('Failed to display error message:', error);
+            // imagine if this happens
+            try {
+                alert('Error: ' + (message || 'An unknown error occurred'));
+            } 
+            catch (e) {
+                console.error('Critical error in error handler:', e);
+            }
+        }
     }
 
     escapeHtml(unsafe) {
@@ -514,11 +527,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // internal smooth scrolling
 document.addEventListener('click', (e) => {
-    if (e.target.matches('a[href^="#"]')) {
-        e.preventDefault();
-        const target = document.querySelector(e.target.getAttribute('href'));
-        if (target) {
-            target.scrollIntoView({ behavior: 'smooth' });
+    try {
+        if (e.target.matches('a[href^="#"]')) {
+            e.preventDefault();
+            const targetId = e.target.getAttribute('href');
+            const target = document.querySelector(targetId);
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth' });
+            } 
+            else {
+                console.warn(`Smooth scroll target not found: ${targetId}`);
+            }
         }
+    } 
+    catch (error) {
+        console.error('Error during smooth scrolling:', error);
     }
 });
