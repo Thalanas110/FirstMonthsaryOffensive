@@ -478,7 +478,7 @@ class PoetrySunsetApp {
                 }
             } 
             catch (e) {
-                // silent fail
+                console.error('Error updating results count fallback:', e);
             }
         }
     }
@@ -511,12 +511,19 @@ class PoetrySunsetApp {
     }
 
     escapeHtml(unsafe) {
-        return unsafe
+        try {
+            return unsafe
             .replace(/&/g, "&amp;")
             .replace(/</g, "&lt;")
             .replace(/>/g, "&gt;")
             .replace(/"/g, "&quot;")
             .replace(/'/g, "&#039;");
+        }
+        catch (error) {
+            console.error('Error escaping HTML:', error);
+            // fallback mechanism for failure
+            return unsafe || '';
+        }
     }
 }
 
