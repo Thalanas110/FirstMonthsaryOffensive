@@ -591,6 +591,24 @@
   }
 
   /* Responsive Design */
+
+  @media (max-width: 1390px) {
+    .poems-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  @media (max-width: 1100px) {
+      .poems-grid {
+          grid-template-columns: repeat(3, 1fr);
+      }
+  }
+
+  @media (max-width: 860px) {
+      .poems-grid {
+          grid-template-columns: repeat(2, 1fr);
+      }
+  }
   @media (max-width: 768px) {
     .hero {
       height: 50vh;
