@@ -355,7 +355,7 @@
     color: hsl(var(--text-secondary));
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 4; /* whats the use? */
     -webkit-box-orient: vertical;
   }
 
@@ -592,7 +592,7 @@
 
   /* Responsive Design */
 
-  @media (max-width: 1390px) {
+  @media (max-width: 1380px) {
     .poems-grid {
         grid-template-columns: repeat(4, 1fr);
     }
@@ -627,7 +627,7 @@
     }
     
     .controls-grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: 2fr;
       gap: var(--spacing-md);
     }
     
@@ -636,7 +636,6 @@
     }
     
     .poems-grid {
-      grid-template-columns: 1fr;
       gap: var(--spacing-lg);
     }
     
