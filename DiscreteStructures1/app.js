@@ -494,7 +494,7 @@ class PoetrySunsetApp {
                 <div class="error-message">
                     <i class="fas fa-exclamation-triangle"></i>
                     <h3>Error</h3>
-                    <p>${this.escapeHtml(message || 'An unknown error occurred')}</p>
+                    <p>${this.escapeHtml(messaISSAge || 'An unknown error occurred')}</p>
                 </div>
             `;
         } 
