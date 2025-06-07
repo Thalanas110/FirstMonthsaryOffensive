@@ -109,7 +109,8 @@ class PoemUtils {
                     
                     if (exactMatch) {
                         return fieldValue === searchTerm;
-                    } else {
+                    } 
+                    else {
                         return fieldValue.includes(searchTerm);
                     }
                 });
