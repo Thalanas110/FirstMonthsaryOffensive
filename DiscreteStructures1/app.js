@@ -69,8 +69,14 @@ class PoetrySunsetApp {
     }
 
     handleKeydown(e) {
-        if (e.key === 'Escape') {
-            this.closeModal();
+        try {
+            if (e.key === 'Escape') {
+                this.closeModal();
+            }
+        }
+        catch (error) {
+            console.error("Error conducting keydown.");
+            alert("Error conducting keydown", error);
         }
     }
 
@@ -88,6 +94,9 @@ class PoetrySunsetApp {
             const currentTheme = document.documentElement.getAttribute('data-theme');
             const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
             document.documentElement.setAttribute('data-theme', newTheme);
+        }
+        finally {
+            console.log(`Theme changed to: ${document.documentElement.getAttribute('data-theme')}`);
         }
     }
 
